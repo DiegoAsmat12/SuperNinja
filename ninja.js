@@ -26,8 +26,6 @@ class Ninja{
     }
 }
 
-new Ninja("Diego").nombre
-
 class Sensei extends Ninja{
     constructor(nombre){
         super(nombre)
